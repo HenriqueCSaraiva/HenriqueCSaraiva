@@ -18,7 +18,7 @@ https://portfolio-henrique-saraiva.web.app/
   <img align="center" alt="Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   
-  <img align="right" alt="cat" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="128" height="128" />
+  <img align="right" alt="cat" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="128" height="128" />
                                                                                                                                   
 </div>
 
