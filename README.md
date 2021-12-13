@@ -29,7 +29,6 @@ https://portfolio-henrique-saraiva.web.app/
   <a href="https://www.linkedin.com/in/henrique-csaraiva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ![Snake animation](https://github.com/HenriqueCSaraiva/HenriqueCSaraiva/blob/output/github-contribution-grid-snake.svg)
-
-![Henrique LoFI (1)](https://user-images.githubusercontent.com/86918112/145871546-084283ba-c7d0-42e4-aa34-7ab573b0c3e4.png)
+![Henrique LoFI (1)-min (1)](https://user-images.githubusercontent.com/86918112/145872884-1b22c9ad-04a3-4c06-85cc-676e9d4b187c.png)
 
 </div>
