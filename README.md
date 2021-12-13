@@ -1,8 +1,4 @@
 ## Hi! I'm HenriqueCSaraiva 🐱‍💻
-
-#### Check my Portfolio
-https://portfolio-henrique-saraiva.web.app/
-
 <div>
   <a href="https://github.com/HenriqueCSaraiva>
   <img height="180em" src="https://github-readme-stats-henriquecsaraiva.vercel.app/api?username=HenriqueCSaraiva&show_icons=true&theme=dracula" />
