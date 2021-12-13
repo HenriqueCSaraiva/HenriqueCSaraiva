@@ -30,5 +30,6 @@ https://portfolio-henrique-saraiva.web.app/
 
 ![Snake animation](https://github.com/HenriqueCSaraiva/HenriqueCSaraiva/blob/output/github-contribution-grid-snake.svg)
 
+![Henrique LoFI (1)](https://user-images.githubusercontent.com/86918112/145871546-084283ba-c7d0-42e4-aa34-7ab573b0c3e4.png)
 
 </div>
